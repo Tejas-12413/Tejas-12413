@@ -3,7 +3,7 @@
 <br><hr><hr><a href="https://github.com/Tejas-12413" target="_blank"> Home.</a>
 
 <ul>
-  <li>YouTube</li>
+  <li><a href="https://youtube.com">YouTube<a/></li>
   <li>Discord</li>
   <li>Undefied</li>
 </ul>
