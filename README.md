@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Tejas-12413
 - 👀 I’m interested in anything that includes tech in it
 <br><hr><hr><a href="https://github.com/Tejas-12413" target="_blank"> Home.</a>
-<li>  
-    <ul>YouTube<ol/>
-    <ul>Discord<ol/>
-    <ul><a>Undefined<a/><ol/>
-<li/>
+
+<ul>
+  <li>YouTube</li>
+  <li>Discord</li>
+  <li>Undefied</li>
+</ul>
 
 <!---
 Tejas-12413/Tejas-12413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
