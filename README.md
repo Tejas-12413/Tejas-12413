@@ -4,7 +4,7 @@
 
 <ul>
   <li><a href="https://youtube.com">YouTube<a/></li>
-  <li>Discord</li>
+  <li><a href="https://discord.com/channels/@me">Discord<a/></li>
   <li>Undefied</li>
 </ul>
 
