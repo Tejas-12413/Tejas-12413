@@ -2,7 +2,9 @@
 - 👀 I’m interested in anything that includes tech in it
 <br><hr><hr><a href="https://github.com/Tejas-12413" target="_blank"> Home.</a>
 <ul>  
-    <ol>Tejas<ol/>
+    <ol>YouTube<ol/>
+    <ol>Discord<ol/>
+    <ol><a>Undefined<a/><ol/>
   <ul/>
 
 <!---
