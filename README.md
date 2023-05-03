@@ -5,9 +5,8 @@
 <ul>
   <li><a href="https://youtube.com">YouTube<a/></li>
   <li><a href="https://discord.com/channels/@me">Discord<a/></li>
-  <li>Undefied</li>
 </ul>
-<hr><hr>
+<hr>
 
 <!---
 Tejas-12413/Tejas-12413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
