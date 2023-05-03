@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Tejas-12413
-- 👀 I’m interested in anything that includes tech in it
+- Hi, I’m @Tejas-12413
+- I’m interested in anything that includes tech in it
+
 <br><hr><hr><a href="https://github.com/" target="_blank"> Home.</a>
 
 <ul>
