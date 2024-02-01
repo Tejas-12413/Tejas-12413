@@ -4,5 +4,5 @@
 
 ⚡️ Proud Potterhead and anime enthusiast, I enjoy diving into the magical worlds of Hogwarts and the captivating stories of anime.
 
-Let's connect and build something awesome together! ✨
-Contact me : <i><strong>tejuk.1508@gmail.com<br>Discord : digi_vert2</strong></i>
+✨ Let's connect and build something awesome together! 
+<br>Contact me : <i><strong>tejuk.1508@gmail.com<br>Discord : digi_vert2</strong></i>
