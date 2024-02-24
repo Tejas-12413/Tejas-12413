@@ -7,10 +7,4 @@
 ✨ Let's connect and collaborate on some amazing projects!
 ✨ Until then, <a href="https://harrypotter.fandom.com/wiki/Killing_Curse" target="_blank" id='aa'>AvAaDA KEdaVRA! </a>
 <br>
-<style>
-  #aa{
-    color: black;
-    text-decoration: green wavy underline;
-  }
-</style>
 <br>Contact me:<br>Email: <i><strong>tejuk.1508@gmail.com<br>Discord: digi_vert2</strong></i>
