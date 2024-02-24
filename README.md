@@ -4,5 +4,7 @@
 
 ⚡️ Proud Potterhead and anime lover, I enjoy immersing myself in the magical worlds of Hogwarts and the captivating stories of anime.
 
-✨ Let's connect and collaborate on some amazing projects! <br>
+✨ Let's connect and collaborate on some amazing projects!
+✨ Until then, <a href="https://harrypotter.fandom.com/wiki/Killing_Curse">AvAaDA KEdaVRA! </a>
+<br>
 <br>Contact me:<br>Email: <i><strong>tejuk.1508@gmail.com<br>Discord: digi_vert2</strong></i>
