@@ -1,6 +1,6 @@
 👋 Hi there! I'm Tejas, an avid tech enthusiast diving deep into the realms of coding and creativity. With a passion for crafting digital experiences, I'm always exploring the latest in web development and technology.
 
-🌱 My interests lie in programming, technology, and the theories of the Big Bang. When I'm not absorbed in lines of code, you'll find me out in nature, surrounded by animals (total cat person 🐱).
+🌱 My interests lie in programming, technology, and anything horror in particular. When I'm not absorbed in lines of code, you'll find me out in nature, surrounded by animals (total cat person 🐱).
 
 ⚡️ Proud Potterhead and anime lover, I enjoy immersing myself in the magical worlds of Hogwarts and the captivating stories of anime.
 
